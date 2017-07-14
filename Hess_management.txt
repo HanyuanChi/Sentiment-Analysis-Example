@@ -1,0 +1,148 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Overview
+Hess Corporation is a global Exploration and Production (E&P) company engaged in exploration, development,
+production, transportation, purchase and sale of crude oil, natural gas liquids, and natural gas with production operations
+located primarily in the United States (U.S.), Denmark, Equatorial Guinea, the Joint Development Area of Malaysia/Thailand
+(JDA), Malaysia, and Norway. The Bakken Midstream operating segment, which was established in the second quarter of
+2015, provides fee-based services, including crude oil and natural gas gathering, processing of natural gas and the
+fractionation of natural gas liquids, transportation of crude oil by rail car, terminaling and loading crude oil and natural gas
+liquids, and the storage and terminaling of propane, primarily in the Bakken shale play of North Dakota.
+Transformation to a Pure Play E&P Company
+In 2013, we announced several initiatives to continue our transformation from an integrated energy company into a more
+geographically focused pure play E&P company. These initiatives represented the culmination of a multi-year strategic
+transformation designed to leverage our lean manufacturing capabilities across unconventional assets, exploit our deepwater
+drilling and project development capabilities, and execute a smaller, more targeted exploration program. This transformation
+was completed in 2015.
+During 2013 through 2015, the Corporation sold mature or lower margin E&P assets in Algeria, Azerbaijan, Indonesia,
+Russia, Thailand, the United Kingdom (UK) North Sea, and certain interests onshore in the U.S. In addition, the
+transformation plan included fully exiting the Corporation’s Marketing and Refining (M&R) business, including its terminal,
+retail, energy marketing and energy trading operations, as well as the permanent shutdown of refining operations at its Port
+Reading, NJ facility. HOVENSA L.L.C. (HOVENSA), a 50/50 joint venture between the Corporation’s subsidiary, Hess Oil
+Virgin Islands Corp. (HOVIC), and Petroleos de Venezuela S.A. (PDVSA), had previously shut down its U.S. Virgin Islands
+refinery in 2012. HOVENSA filed a voluntary petition for relief under Chapter 11 of the United States Bankruptcy Code in
+the United States District Court of the Virgin Islands in September 2015. In January 2016, Limetree Bay Terminals, LLC
+(Limetree) purchased the terminal and refinery assets of the St. Croix Facility and HOVENSA will conduct an orderly winddown of its remaining activities. See Item 3. Legal Proceedings.
+Response to Low Oil Prices
+In 2015, we realized an adjusted net loss of $1,113 million and incurred a net operating cash flow deficit (cash flow from
+operating activities less cash flows from investing activities) of $2,225 million based on average 2015 West Texas
+Intermediate (WTI) oil prices of $48.80 per barrel (Brent - $53.64 per barrel). In response to the decline in crude oil prices
+that began in late 2014, we conducted an extensive company-wide review of our cost base and engaged with our suppliers to
+identify opportunities to reduce costs during 2015. As a result of these cost reduction efforts, we decreased E&P capital and
+exploratory expenditures by $400 million to $4.0 billion, and cash operating costs by approximately $300 million versus our
+2015 plan.
+At December 31, 2015, we had $2.7 billion in cash and cash equivalents and total liquidity including available committed
+credit facilities of approximately $7.4 billion. Oil and gas production in 2016 is forecast to be in the range of 330,000 to
+350,000 barrels of oil equivalent per day (boepd) compared with 375,000 boepd in 2015, and we have reduced our 2016 E&P
+capital and exploratory expenditure budget to approximately $2.4 billion, down 40% from 2015. Capital expenditures from
+our Bakken Midstream joint venture are expected to be approximately $340 million in 2016. Forward strip crude oil prices
+for 2016 are below average prices for 2015, and as a result, we forecast a significant net loss and a net operating cash flow
+deficit (including capital expenditures) in 2016. In February 2016, we issued 28,750,000 shares of common stock and
+depositary shares representing 575,000 shares of 8% Series A Mandatory Convertible Preferred Stock, par value $1 per share,
+with a liquidation preference of $1,000 per share of convertible preferred stock, for total net proceeds of approximately $1.6
+billion. We expect to fund our net operating cash flow deficit (including capital expenditures) for the full year of 2016 with
+cash on hand. Due to the low commodity price environment, we may take other steps to improve our financial position by
+further reducing our planned capital program and other cash outlays, accessing other sources of liquidity by issuing debt and
+equity securities, and/or pursuing further asset sales. See Note 23, Subsequent Events in the Notes to the Consolidated
+Financial Statements.
+Consolidated Results
+Net loss was $3,056 million in 2015 compared with net income in the prior two years (2014: $2,317 million; 2013: $5,052
+million). Excluding items affecting comparability summarized on page 28, adjusted net loss was $1,113 million in 2015
+compared with adjusted net income in the prior two years (2014: $1,308 million; 2013: $1,892 million). Annual production
+averaged 375,000 boepd (2014: 329,000 boepd; 2013: 336,000 boepd) and is expected to average between 330,000 boepd
+and 350,000 boepd in 2016 excluding any contribution from Libya. Total proved reserves were 1,086 million barrels of oil
+equivalent (boe), 1,431 million boe, and 1,437 million boe at December 31, 2015, 2014, and 2013, respectively. Lower crude
+oil prices in 2015 resulted in negative revisions of 234 million boe at December 31, 2015, primarily related to proved
+undeveloped reserves.
+Significant 2015 Activities
+The following is an update of significant E&P activities for 2015:
+Producing E&P assets:
+In North Dakota, net production from the Bakken oil shale play averaged 112,000 boepd (2014: 83,000 boepd), with
+the increase from prior-year primarily due to ongoing field development. During 2015, we operated an average of 8.5
+rigs, drilled 182 wells, completed 212 wells, and brought on production 219 wells, bringing the total operated
+production wells to 1,201 at December 31, 2015. Drilling and completion costs per operated well averaged
+$5.8 million in 2015, down 21% from 2014. In 2016, we plan to operate an average of two rigs to drill approximately
+50 wells and bring approximately 80 wells on production while reducing capital expenditures to $425 million, down
+from $1.3 billion in 2015. Bakken production is forecast to average between 95,000 boepd and 105,000 boepd in
+2016.
+At the Valhall Field in Norway, net production averaged 33,000 boepd (2014: 31,000 boepd), with the increase from
+prior-year primarily due to less facility downtime and new wells in the current period. During 2015, the operator, BP,
+drilled one well and completed three wells, and continued to execute a multi-year well abandonment program.
+Production from the Valhall Field is forecast to average approximately 30,000 boepd in 2016, with the decrease from
+2015 reflecting reduced drilling activity.
+At Block A-18 of the Joint Development Area of Malaysia/Thailand (JDA), the operator, Carigali Hess Operating
+Company, continued drilling production wells and progressed its booster compression project that is expected to be
+completed by the third quarter of 2016. Production averaged 42,000 boepd (2014: 42,000 boepd), including
+contribution from unitized acreage in Malaysia. Production from the JDA is forecast to average approximately 35,000
+boepd in 2016 due to lower entitlement and downtime associated with the booster compression project.
+At the Hess operated Tubular Bells Field, we achieved our first full year of production following first oil in late 2014.
+In the second half of 2015 a subsurface safety valve stuck in the closed position at one well and two other wells
+experienced wellbore skin effects that reduced production rates. As a result, full-year 2015 production from Tubular
+Bells was restricted to 19,000 boepd and we estimate full-year 2016 net production to be approximately 20,000 boepd
+to 25,000 boepd. In 2016, we intend to complete one water injector well, drill one production well, perform two
+wellbore stimulations, and complete a workover on a third well to open the stuck subsurface safety valve.
+In the North Malay Basin (NMB), in 2015 net production from the Early Production System averaged approximately
+40 million cubic feet per day (2014: 43 million cubic feet per day). In 2015, we also progressed fabrication and
+installation of the Central Processing Platform and commenced development drilling activities associated with the
+full-field development project. This project is on schedule to be completed in 2017, from which production is forecast
+to average approximately 165 million cubic feet per day.
+At the South Arne Field, offshore Denmark, we continued drilling operations in 2015 and expect to complete drilling
+of a previously sanctioned eleven well multi-year program in the first quarter of 2016. Net production is forecast to
+average approximately between 10,000 boepd and 15,000 boepd in 2016 compared with 13,000 boepd in 2015.In the Utica shale, 24 wells were drilled, 32 wells were completed and 32 wells were brought into production in 2015.
+Net production increased to approximately 24,000 boepd in 2015. In the third quarter of 2015, we completed the sale
+of approximately 13,000 acres of Utica dry gas acreage for consideration of approximately $120 million. In 2016, we
+and our joint venture partner plan to suspend drilling activities, but will bring into production 14 wells. Net
+production is expected to average between 20,000 boepd and 25,000 boepd in 2016.
+In Equatorial Guinea, we deferred the remaining portion of an infill drilling program at the Okume Field to reduce
+spend and allow time to evaluate recently acquired 4D seismic. Net production in 2016 is expected to average
+between 30,000 boepd and 35,000 boepd compared with net production in 2015 of 43,000 boepd.
+In Algeria, production averaged 10,000 boepd for the fourth quarter of 2015. We sold our interests in the country on
+December 31, 2015.
+In Libya, civil and political unrest has largely interrupted production and crude oil export capability since August
+2013. At the Waha fields (Hess 8%), the operator shut-in production for 2015 and force majeure declared by the
+national oil company of Libya remains in effect.
+Other E&P assets:
+At the Stampede development project in the Gulf of Mexico, we expect to commence drilling of our first production
+well in the first quarter of 2016. Construction of production facilities and subsea equipment is underway with first
+production from the field targeted in 2018 at an expected net rate of 15,000 boepd.
+In Ghana, we, along with our co-owners, continued development planning and subsurface evaluation in 2015. The
+government of Côte d’Ivoire has challenged the maritime border between it and the country of Ghana, which includes
+a portion of our Deepwater Tano/Cape Three Points license. We are unable to proceed with development of this
+license until there is a resolution of this matter, which may also impact our ability to develop the license. The
+International Tribunal for Law of the Sea is expected to render a final ruling on the maritime border dispute in 2017.
+Under terms of our license, the deadline to declare commerciality for the Pecan Field, which would be the primary
+development hub for the block, is in March 2016, and the deadline to submit a plan of development is in September
+2016. We have requested an extension of the submission deadline for a plan of development for the Pecan Field, and
+will continue to work with the government on how best to progress work on the Block given the maritime border
+dispute. In 2015, we expensed previously capitalized gas wells that have not sufficiently progressed appraisal
+negotiations with the regulator. See Capitalized Exploratory Well Costs in Note 5, Property, Plant and Equipment in
+the Notes to the Consolidated Financial Statements.
+At the Equus project on Block WA-390-P in the offshore Carnarvon Basin of Australia, in 2015 we initiated joint
+front-end engineering studies with a potential third-party liquefaction partner following the execution of a non-binding
+letter of intent with the same third-party liquefaction partner in 2014. In 2015, we commenced discussions with
+potential long-term purchasers of liquefied natural gas, and in 2016 we plan to drill a commitment well on Block WA-
+474-P which is adjacent to Block WA-390-P. We also wrote-off three previously capitalized wells that we determined
+will not be included in the current development concept. See Capitalized Exploratory Well Costs in Note 5, Property,
+Plant and Equipment in the Notes to the Consolidated Financial Statements.
+In Guyana at the Stabroek Block (Hess 30%), the operator, Esso Exploration and Production Guyana Limited,
+announced a significant oil discovery at the Liza-1 well in the second quarter of 2015. The operator plans to drill two
+appraisal wells, including one sidetrack with a production test, and two exploration wells in 2016. A new 17,000
+square kilometer 3D seismic shoot is near completion and the operator, along with its partners, continues to evaluate
+the resource potential of the block.
+At the Sicily prospect (Hess 25%), in the Keathley Canyon area of the deepwater Gulf of Mexico, the operator
+successfully completed drilling and logging activities in 2015 of its initial exploration well. The discovery well was
+drilled to a depth of 30,214 feet and is being evaluated. Drilling of an appraisal well to further evaluate the discovery
+commenced in December 2015.
+At the Melmar prospect in the Alaminos Canyon area of the deepwater Gulf of Mexico (Hess 35%), which we entered
+into during 2015, the operator, ConocoPhillips, commenced exploration drilling in December 2015.
+In the Kurdistan region of Iraq (Hess 64%), we and our partner agreed to relinquish the Dinarta Block, and to exit
+operations in the region based on well results in 2015.
+The following is an update of significant Bakken Midstream activities during 2015:
+We completed the sale of a 50% interest in our Bakken Midstream business to Global Infrastructure Partners (GIP) for
+cash consideration of approximately $2.6 billion and formed a joint venture with GIP. The joint venture has filed a
+Form S-1 with the Securities and Exchange Commission in preparation for an initial public offering of Hess
+Midstream Partners LP limited partnership units to the public. The joint venture expects to initiate the offering when
+market conditions for the sale of limited partnership units become more favorable.
+We commenced the construction of facilities and the reconfiguration of pipelines in McKenzie and Williams counties
+that are expected to increase throughput capacity for crude oil and natural gas originating from south of the Missouri
+River for transporting north to our natural gas processing and crude oil and natural gas liquids logistics assets in Tioga
+and Ramberg. We currently expect these projects to be fully in service in 2017
